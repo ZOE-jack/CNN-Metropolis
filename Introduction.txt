@@ -1,0 +1,14 @@
+1. File 0-5 means the working step for my project:
+- 0Check_Stability: Checking the best paramaters for Metropolis-Hastings algorithm.
+- 1data_processing: After generating data from Metropolis.py from command line, here add the label data to the generated datasets.
+- 2gen_model: Generating the CNN model.
+- 3training: Training the CNN model and draw the loss curve and accuracy.
+- 4training_improve: Training the regularized CNN model and draw the loss curve and accuracy.
+- 5predicting: To calculate the accuracy by focusing on different type of temperature label.
+- Metropolis.py: Generate datasets by the Metropolis-Hastings algorithm 
+
+2. the content of data folder:
+- chk_points: storing the check points, which presents the epoch of best minimum loss for validation data.
+- image: storing the images generated from all the .py file.
+- model: storing the models.
+- datasets(tooooo big so I can't upload.)
