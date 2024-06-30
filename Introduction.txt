@@ -9,6 +9,6 @@
 
 2. the content of data folder:
 - chk_points: storing the check points, which presents the epoch of best minimum loss for validation data.
-- image: storing the images generated from all the .py file.
-- model: storing the models.
+- image: storing the images generated from all the .py file.(a little big so I can't upload.)
+- model: storing the models.(tooooo big so I can't upload.)
 - datasets(tooooo big so I can't upload.)
